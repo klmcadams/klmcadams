@@ -1,4 +1,4 @@
-Hi, I'm Kerry, a computer scientist interested in Python programming, web & mobile application development, and secure development practices. I currently work at Ansys, contributing to the pymechanical repository. In my free time, I enjoy working on various web and mobile application projects, as well as learning more about linguistics.
+Hi, I'm Kerry, a computer scientist interested in Python programming, web & mobile application development, and secure development practices. I currently work at Ansys, contributing to the pymechanical repository. In my free time, I enjoy working on various web and mobile application projects.
 
 ## Software Languages & Tools
 Languages and tools that I use most often and have the most experience with
